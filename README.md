@@ -1,5 +1,5 @@
-h1 align="center">Hi 👋, I'm Cosmin</h1>
-<h3 align="center">A student at 42 Vienna</h3>
+<h1 align="center">Hello there, I'm Cosmin</h1>
+<h3 align="center">Student at University of Vienna and 42 Coding</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gombosc&label=Profile%20views&color=0e75b6&style=flat" alt="gombosc" /> </p>
 

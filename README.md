@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gombosc&label=Profile%20views&color=0e75b6&style=flat" alt="gombosc" /> </p>
 
-- 🔭 I’m currently working on **my startup**
+- 🔭 I’m currently working on **a startup idea**
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning more about **C**
 
 - 👯 I’m looking to collaborate on **cool projects**
 
